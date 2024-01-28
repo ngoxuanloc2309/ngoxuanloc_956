@@ -1,0 +1,8 @@
+venv
+yolov3.cfg
+main.py
+yolov3.txt
+yolov3.weights
+input.jpg
+Ket_qua
+.idea
